@@ -25,9 +25,7 @@ text-rendering: optimizeLegibility;
     visibility: hidden;
 }
 
-/*------------------------------------------*/
 /*REUSABLE COMPONENTS*/
-/*------------------------------------------*/
 
 .row{
     max-width:1140px;
@@ -154,9 +152,7 @@ input[type=submit]:active{
     color: #fff;
 }
 
-/*------------------------------------------*/
 /*HEADER*/
-/*------------------------------------------*/
 
 header{
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/hero.jpg);
